@@ -1,0 +1,25 @@
+/* color of the hand */
+.cls-1 {
+  fill: #b6817a;
+}
+
+/* this sets the initial color of the nails to red */
+.nails {
+  fill: red;
+}
+
+/* sets the outline of the hand and the strokes to black */
+.cls-1,
+.cls-2 {
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.cls-2 {
+  fill: none;
+}
+
+/* styling for the message */
+.message {
+  text-align: center;
+}
